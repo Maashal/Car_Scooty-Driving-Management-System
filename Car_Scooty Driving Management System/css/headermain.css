@@ -1,0 +1,44 @@
+/* for header text */
+#head{
+    text-align: center;
+    color:#070749;
+    font-family: 'Bree Serif', serif;
+    letter-spacing: 10px;
+}
+/* for header toolbar  */
+#divnav{
+    width: 100%; 
+    margin:auto;
+    padding-left: 10% ;
+    padding-right: 25px;
+}
+
+#divinnav{
+    display:inline-block;
+    margin-left: 20%;
+}
+
+.navc{
+    padding:10px;
+}
+
+/* for bottom div */
+
+div.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background:#686A6B;
+    color:white; 
+    text-align: center;
+    font-size: large;
+    padding:8px;
+}
+
+#linkbtnsearch{
+    margin-top: -inherit;
+    width: auto;
+    height: auto;
+    padding:2px;
+}
+

@@ -1,0 +1,59 @@
+/* for header text */
+#head{
+    text-align: center;
+    color:#070749;
+    font-family: 'Bree Serif', serif;
+    letter-spacing: 10px;
+}
+/* for header toolbar  */
+#divnav{
+    background:#464141;
+    padding:15px;
+    padding-right: 25px;
+    padding-left: 10% ;
+}
+
+.links, .logout{
+    margin-left: 15px;
+    border-left: 1px solid grey;
+    padding-left: 15px;
+    font-size:20px; color:white;
+}
+
+a.links:hover{
+
+    background:#ffd54f;
+    color:darkblue;
+    padding:10px;
+    text-decoration: none;
+}
+
+.fa{
+    font-size:30px; 
+    color:white;
+}
+
+.fa:hover{
+    color:#81d4fa;
+}
+
+
+section{
+    
+    float: right;
+    font-size: 20px;
+    color: yellow;
+    margin-right: 25px;
+    font-weight: bold;
+}
+
+
+.logout:hover{
+    background:red;
+    margin-left: 15px;
+    border-left: 1px solid grey;
+    padding: 15px;
+    font-size:20px;
+     color:white;
+     text-decoration: none;
+}

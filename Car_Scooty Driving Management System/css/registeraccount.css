@@ -1,0 +1,38 @@
+  #div1{
+      width:40%;
+       margin:0 auto;
+        box-shadow: 0px 0px 10px 0px grey;
+        }
+
+        #h3step{
+            background:#1535D6;
+           border-bottom-right-radius: 35px;
+           border-top-right-radius: 35px;
+            width: 20%;
+            color:white;
+            padding: 8px 0px 8px 20px;
+            margin-top: 25px;
+        }
+
+        #divform{
+            padding:25px;
+        }
+
+       .btns{
+            padding:10px;
+        }
+
+        select{
+            font-weight: bold;
+        }
+
+        .btn {
+            width: 45%;
+            margin: auto;
+            padding-left: 10px;
+        }
+
+        label {
+            font-weight: bolder;
+        }
+
